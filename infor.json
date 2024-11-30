@@ -1,0 +1,19 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "faleel"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "hello todo-list react"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "vue"
+    }
+  ]
+}
